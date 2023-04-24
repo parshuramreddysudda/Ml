@@ -1,0 +1,2055 @@
+2023-04-21 18:55:31,519:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-21 18:55:31,519:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-21 18:55:31,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-21 18:55:31,520:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-21 18:55:36,151:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-21 23:08:46,031:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-21 23:11:09,198:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-21 23:11:11,069:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:11,992:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:13,621:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:14,190:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:14,551:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:15,380:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:51,850:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-21 23:11:53,045:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:53,940:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:55,665:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:56,191:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:56,564:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-21 23:11:57,380:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:15:45,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:15:45,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:15:45,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:15:45,374:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:15:46,612:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 13:16:02,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:16:02,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:16:02,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:16:02,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:16:03,222:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 13:16:05,342:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 13:16:12,974:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 13:16:15,038:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:16,112:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:17,975:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:18,616:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:19,034:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:19,958:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:33,374:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 13:16:34,812:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:36,051:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:37,889:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:38,447:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:38,825:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:16:39,769:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 13:31:39,896:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:31:39,897:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:31:39,897:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:31:39,897:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 13:31:41,013:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 13:31:44,087:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 21:09:59,416:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 21:09:59,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 21:09:59,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 21:09:59,418:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 21:10:00,685:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 21:10:04,874:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 21:10:12,801:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 21:10:12,801:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 21:10:14,895:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:15,938:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:17,717:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:18,330:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:18,749:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:19,836:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:34,071:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 21:10:35,509:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:36,537:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:38,478:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:39,131:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:39,670:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 21:10:40,774:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:39:19,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:19,802:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:19,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:19,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:20,942:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 22:39:24,366:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 22:39:51,679:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:51,679:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:51,679:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:51,679:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:39:52,601:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 22:39:55,613:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 22:40:03,797:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 22:40:05,912:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:07,001:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:08,842:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:09,464:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:09,842:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:10,817:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:23,432:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 22:40:24,978:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:25,932:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:27,574:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:28,157:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:28,549:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:40:29,406:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:42:37,918:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27436/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:42:38,237:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27436/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:42:50,832:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27436/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:42:51,116:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27436/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:50:55,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:50:55,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:50:55,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:50:55,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-22 22:50:56,528:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-22 22:50:59,626:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-22 22:51:06,720:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 22:51:08,675:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:09,625:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:11,257:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:11,825:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:12,217:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:13,080:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:27,571:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-22 22:51:28,738:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:29,672:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:31,330:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:31,957:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:32,353:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:51:33,235:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-22 22:52:25,098:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27724/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:52:25,447:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27724/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:52:27,717:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27724/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-22 22:52:27,975:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_27724/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 12:03:24,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 12:03:24,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 12:03:24,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 12:03:24,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 12:03:26,125:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 12:03:30,129:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 12:03:37,631:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 12:03:39,552:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:40,499:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:42,059:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:42,616:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:43,002:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:43,827:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:56,811:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 12:03:57,984:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:03:59,465:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:04:01,969:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:04:02,593:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:04:03,122:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:04:04,031:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 12:04:47,091:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_32409/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 12:04:47,745:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_32409/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 12:04:49,444:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_32409/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 12:04:49,717:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_32409/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 13:00:16,630:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 13:00:16,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 13:00:16,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 13:00:16,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 13:00:17,380:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 13:00:19,908:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 13:01:25,363:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 13:01:27,856:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:01:28,829:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:01:30,731:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:01:31,302:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:01:31,666:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:01:32,555:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:02,972:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 13:02:04,592:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:05,569:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:07,295:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:07,882:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:08,269:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:02:09,146:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 13:03:15,456:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_33356/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 13:03:15,943:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_33356/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 13:05:14,154:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_33356/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 13:05:14,454:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_33356/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:13:47,804:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:13:47,805:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:13:47,805:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:13:47,805:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:13:49,101:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 15:13:52,871:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 15:18:13,382:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_35527/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:18:13,917:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_35527/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:18:24,626:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_35527/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:18:24,993:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_35527/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:27:56,798:INFO:PyCaret RegressionExperiment
+2023-04-23 15:27:56,799:INFO:Logging name: reg-default-name
+2023-04-23 15:27:56,799:INFO:ML Usecase: MLUsecase.REGRESSION
+2023-04-23 15:27:56,799:INFO:version 3.0.0
+2023-04-23 15:27:56,800:INFO:Initializing setup()
+2023-04-23 15:27:56,800:INFO:self.USI: 7703
+2023-04-23 15:27:56,800:INFO:self._variable_keys: {'gpu_n_jobs_param', 'n_jobs_param', 'X', 'log_plots_param', '_available_plots', 'data', 'exp_name_log', 'fold_shuffle_param', 'X_test', 'pipeline', 'target_param', 'gpu_param', 'y_test', 'idx', 'exp_id', 'y_train', 'USI', 'memory', 'transform_target_param', 'seed', 'fold_groups_param', 'logging_param', 'y', 'fold_generator', 'html_param', 'X_train', '_ml_usecase'}
+2023-04-23 15:27:56,800:INFO:Checking environment
+2023-04-23 15:27:56,801:INFO:python_version: 3.9.6
+2023-04-23 15:27:56,801:INFO:python_build: ('default', 'Apr 19 2023 22:04:25')
+2023-04-23 15:27:56,804:INFO:machine: x86_64
+2023-04-23 15:27:56,804:INFO:platform: macOS-13.2.1-x86_64-i386-64bit
+2023-04-23 15:27:56,811:INFO:Memory: svmem(total=8589934592, available=2546450432, percent=70.4, used=5086474240, free=6631424, active=2540666880, inactive=2537234432, wired=2545807360)
+2023-04-23 15:27:56,812:INFO:Physical Core: 2
+2023-04-23 15:27:56,812:INFO:Logical Core: 4
+2023-04-23 15:27:56,813:INFO:Checking libraries
+2023-04-23 15:27:56,814:INFO:System:
+2023-04-23 15:27:56,815:INFO:    python: 3.9.6 (default, Apr 19 2023, 22:04:25)  [Clang 14.0.0 (clang-1400.0.29.202)]
+2023-04-23 15:27:56,815:INFO:executable: /Users/ram/.pyenv/versions/3.9.6/envs/myenv/bin/python3.9
+2023-04-23 15:27:56,815:INFO:   machine: macOS-13.2.1-x86_64-i386-64bit
+2023-04-23 15:27:56,816:INFO:PyCaret required dependencies:
+2023-04-23 15:27:56,824:INFO:                 pip: 23.1
+2023-04-23 15:27:56,824:INFO:          setuptools: 56.0.0
+2023-04-23 15:27:56,824:INFO:             pycaret: 3.0.0
+2023-04-23 15:27:56,824:INFO:             IPython: 8.12.0
+2023-04-23 15:27:56,825:INFO:          ipywidgets: 7.7.5
+2023-04-23 15:27:56,825:INFO:                tqdm: 4.65.0
+2023-04-23 15:27:56,825:INFO:               numpy: 1.23.5
+2023-04-23 15:27:56,825:INFO:              pandas: 1.5.3
+2023-04-23 15:27:56,825:INFO:              jinja2: 3.0.3
+2023-04-23 15:27:56,825:INFO:               scipy: 1.10.1
+2023-04-23 15:27:56,825:INFO:              joblib: 1.2.0
+2023-04-23 15:27:56,825:INFO:             sklearn: 1.2.2
+2023-04-23 15:27:56,826:INFO:                pyod: 1.0.9
+2023-04-23 15:27:56,826:INFO:            imblearn: 0.10.1
+2023-04-23 15:27:56,826:INFO:   category_encoders: 2.6.0
+2023-04-23 15:27:56,826:INFO:            lightgbm: 3.3.5
+2023-04-23 15:27:56,828:INFO:               numba: 0.56.4
+2023-04-23 15:27:56,828:INFO:            requests: 2.28.2
+2023-04-23 15:27:56,828:INFO:          matplotlib: 3.7.1
+2023-04-23 15:27:56,828:INFO:          scikitplot: 0.3.7
+2023-04-23 15:27:56,828:INFO:         yellowbrick: 1.5
+2023-04-23 15:27:56,828:INFO:              plotly: 5.14.1
+2023-04-23 15:27:56,828:INFO:             kaleido: 0.2.1
+2023-04-23 15:27:56,828:INFO:         statsmodels: 0.13.5
+2023-04-23 15:27:56,828:INFO:              sktime: 0.17.1
+2023-04-23 15:27:56,828:INFO:               tbats: 1.1.3
+2023-04-23 15:27:56,828:INFO:            pmdarima: 2.0.3
+2023-04-23 15:27:56,828:INFO:              psutil: 5.9.5
+2023-04-23 15:27:56,828:INFO:PyCaret optional dependencies:
+2023-04-23 15:27:56,901:INFO:                shap: 0.41.0
+2023-04-23 15:27:56,901:INFO:           interpret: Not installed
+2023-04-23 15:27:56,901:INFO:                umap: Not installed
+2023-04-23 15:27:56,901:INFO:    pandas_profiling: Not installed
+2023-04-23 15:27:56,901:INFO:  explainerdashboard: Not installed
+2023-04-23 15:27:56,901:INFO:             autoviz: Not installed
+2023-04-23 15:27:56,901:INFO:           fairlearn: Not installed
+2023-04-23 15:27:56,901:INFO:             xgboost: 1.7.5
+2023-04-23 15:27:56,901:INFO:            catboost: 1.1.1
+2023-04-23 15:27:56,901:INFO:              kmodes: Not installed
+2023-04-23 15:27:56,901:INFO:             mlxtend: Not installed
+2023-04-23 15:27:56,901:INFO:       statsforecast: Not installed
+2023-04-23 15:27:56,901:INFO:        tune_sklearn: Not installed
+2023-04-23 15:27:56,902:INFO:                 ray: Not installed
+2023-04-23 15:27:56,902:INFO:            hyperopt: Not installed
+2023-04-23 15:27:56,902:INFO:              optuna: 3.1.1
+2023-04-23 15:27:56,902:INFO:               skopt: Not installed
+2023-04-23 15:27:56,902:INFO:              mlflow: Not installed
+2023-04-23 15:27:56,902:INFO:              gradio: Not installed
+2023-04-23 15:27:56,902:INFO:             fastapi: Not installed
+2023-04-23 15:27:56,902:INFO:             uvicorn: Not installed
+2023-04-23 15:27:56,902:INFO:              m2cgen: Not installed
+2023-04-23 15:27:56,902:INFO:           evidently: Not installed
+2023-04-23 15:27:56,902:INFO:               fugue: Not installed
+2023-04-23 15:27:56,902:INFO:           streamlit: Not installed
+2023-04-23 15:27:56,902:INFO:             prophet: Not installed
+2023-04-23 15:27:56,902:INFO:None
+2023-04-23 15:27:56,902:INFO:Set up GPU usage.
+2023-04-23 15:27:56,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:27:56,903:WARNING:cuML is outdated or not found. Required version is >=22.10, got 3.0.0
+2023-04-23 15:27:56,903:INFO:Set up data.
+2023-04-23 15:28:38,992:INFO:Set up train/test split.
+2023-04-23 15:28:49,508:INFO:Set up index.
+2023-04-23 15:28:49,778:INFO:Set up folding strategy.
+2023-04-23 15:28:49,780:INFO:Assigning column types.
+2023-04-23 15:29:01,538:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2023-04-23 15:29:01,548:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:01,550:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-04-23 15:29:01,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:01,561:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 15:29:01,562:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:01,569:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:01,569:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,045:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:09,045:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,098:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:09,098:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,099:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,104:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:09,200:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:09,207:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,207:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-04-23 15:29:09,207:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,214:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 15:29:09,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:09,221:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:09,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,008:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:16,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,072:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:16,073:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,073:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,074:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:16,082:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:16,083:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2023-04-23 15:29:16,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,092:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 15:29:16,092:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:16,100:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:16,100:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,702:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:22,703:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,754:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:22,754:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,754:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,756:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:22,769:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:22,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,783:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 15:29:22,783:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:22,792:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:22,792:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,293:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:29,295:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,344:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:29,345:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,345:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,346:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:29,353:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:29,354:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2023-04-23 15:29:29,354:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,355:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,362:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:29,369:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:29,369:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,486:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:36,488:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,540:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:36,540:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,541:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,542:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:36,564:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:36,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,570:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,577:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:36,584:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 15:29:36,584:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,408:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:43,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,456:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:43,457:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,457:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,457:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:43,463:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:43,465:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2023-04-23 15:29:43,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,465:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,472:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:43,479:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,112:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:49,112:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,161:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:49,161:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,161:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,162:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:49,167:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:49,168:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,168:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,176:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:49,184:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,573:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:29:55,583:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,638:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 15:29:55,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,639:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:29:55,646:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:29:55,647:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2023-04-23 15:29:55,647:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,647:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,655:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:29:55,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,219:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:30:01,219:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,284:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,284:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,285:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:30:01,291:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:30:01,293:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,293:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,302:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:01,309:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,128:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 15:30:07,129:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,178:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,178:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,178:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:30:07,186:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:30:07,187:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2023-04-23 15:30:07,187:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,187:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,195:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:07,202:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,012:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,072:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,073:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:30:13,080:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:30:13,081:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,081:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,088:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:13,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:18,940:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:18,998:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:18,998:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:30:18,999:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 15:30:19,005:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 15:30:19,016:INFO:Preparing preprocessing pipeline...
+2023-04-23 15:30:19,017:INFO:Set up simple imputation.
+2023-04-23 15:30:19,017:INFO:Set up polynomial features.
+2023-04-23 15:30:20,012:INFO:Set up column name cleaning.
+2023-04-23 15:30:32,677:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:231: UserWarning: Persisting input arguments took 0.76s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  fitted_transformer = self._memory_fit(
+
+2023-04-23 15:30:46,041:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:238: UserWarning: Persisting input arguments took 0.64s to run.
+If this happens often in your code, it can cause performance problems 
+(results will be correct in all cases). 
+The reason for this is probably some large input arguments for a wrapped
+ function (e.g. large strings).
+THIS IS A JOBLIB ISSUE. If you can, kindly provide the joblib's team with an
+ example so that they can fix the problem.
+  X, y = self._memory_transform(
+
+2023-04-23 15:32:28,052:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:32:28,052:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:32:28,052:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:32:28,052:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:32:29,536:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 15:32:33,433:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 15:32:42,198:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 15:32:44,471:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:32:45,612:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:32:47,637:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:32:48,221:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:32:48,641:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:32:49,501:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:04,039:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 15:33:04,050:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 15:33:05,280:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:06,309:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:07,999:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:08,575:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:08,976:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:09,844:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:33:51,788:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36222/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:33:52,159:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36222/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:33:53,326:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36222/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:33:53,574:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36222/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:52:43,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:52:43,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:52:43,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:52:43,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 15:52:44,986:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 15:52:48,188:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 15:52:54,970:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 15:52:57,207:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:52:58,235:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:52:59,960:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:00,556:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:00,946:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:01,871:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:15,842:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 15:53:17,071:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:17,999:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:19,692:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:20,297:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:20,676:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:21,539:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 15:53:58,600:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36608/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:53:58,969:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36608/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:54:00,739:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36608/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 15:54:00,991:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36608/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:00:10,770:INFO:PyCaret RegressionExperiment
+2023-04-23 16:00:10,771:INFO:Logging name: reg-default-name
+2023-04-23 16:00:10,771:INFO:ML Usecase: MLUsecase.REGRESSION
+2023-04-23 16:00:10,771:INFO:version 3.0.0
+2023-04-23 16:00:10,771:INFO:Initializing setup()
+2023-04-23 16:00:10,771:INFO:self.USI: 0e62
+2023-04-23 16:00:10,771:INFO:self._variable_keys: {'logging_param', 'fold_groups_param', 'exp_name_log', 'X_test', '_available_plots', 'data', '_ml_usecase', 'idx', 'seed', 'y_train', 'y_test', 'y', 'fold_generator', 'html_param', 'log_plots_param', 'gpu_n_jobs_param', 'pipeline', 'exp_id', 'fold_shuffle_param', 'n_jobs_param', 'X', 'memory', 'target_param', 'transform_target_param', 'X_train', 'USI', 'gpu_param'}
+2023-04-23 16:00:10,771:INFO:Checking environment
+2023-04-23 16:00:10,772:INFO:python_version: 3.9.6
+2023-04-23 16:00:10,772:INFO:python_build: ('default', 'Apr 19 2023 22:04:25')
+2023-04-23 16:00:10,772:INFO:machine: x86_64
+2023-04-23 16:00:10,772:INFO:platform: macOS-13.2.1-x86_64-i386-64bit
+2023-04-23 16:00:10,773:INFO:Memory: svmem(total=8589934592, available=1837195264, percent=78.6, used=4406218752, free=8957952, active=1829797888, inactive=1818198016, wired=2576420864)
+2023-04-23 16:00:10,773:INFO:Physical Core: 2
+2023-04-23 16:00:10,773:INFO:Logical Core: 4
+2023-04-23 16:00:10,773:INFO:Checking libraries
+2023-04-23 16:00:10,773:INFO:System:
+2023-04-23 16:00:10,773:INFO:    python: 3.9.6 (default, Apr 19 2023, 22:04:25)  [Clang 14.0.0 (clang-1400.0.29.202)]
+2023-04-23 16:00:10,773:INFO:executable: /Users/ram/.pyenv/versions/3.9.6/envs/myenv/bin/python3.9
+2023-04-23 16:00:10,773:INFO:   machine: macOS-13.2.1-x86_64-i386-64bit
+2023-04-23 16:00:10,773:INFO:PyCaret required dependencies:
+2023-04-23 16:00:10,774:INFO:                 pip: 23.1
+2023-04-23 16:00:10,775:INFO:          setuptools: 56.0.0
+2023-04-23 16:00:10,775:INFO:             pycaret: 3.0.0
+2023-04-23 16:00:10,775:INFO:             IPython: 8.12.0
+2023-04-23 16:00:10,775:INFO:          ipywidgets: 7.7.5
+2023-04-23 16:00:10,775:INFO:                tqdm: 4.65.0
+2023-04-23 16:00:10,775:INFO:               numpy: 1.23.5
+2023-04-23 16:00:10,775:INFO:              pandas: 1.5.3
+2023-04-23 16:00:10,775:INFO:              jinja2: 3.0.3
+2023-04-23 16:00:10,775:INFO:               scipy: 1.10.1
+2023-04-23 16:00:10,775:INFO:              joblib: 1.2.0
+2023-04-23 16:00:10,775:INFO:             sklearn: 1.2.2
+2023-04-23 16:00:10,775:INFO:                pyod: 1.0.9
+2023-04-23 16:00:10,775:INFO:            imblearn: 0.10.1
+2023-04-23 16:00:10,775:INFO:   category_encoders: 2.6.0
+2023-04-23 16:00:10,775:INFO:            lightgbm: 3.3.5
+2023-04-23 16:00:10,775:INFO:               numba: 0.56.4
+2023-04-23 16:00:10,775:INFO:            requests: 2.28.2
+2023-04-23 16:00:10,776:INFO:          matplotlib: 3.7.1
+2023-04-23 16:00:10,776:INFO:          scikitplot: 0.3.7
+2023-04-23 16:00:10,776:INFO:         yellowbrick: 1.5
+2023-04-23 16:00:10,776:INFO:              plotly: 5.14.1
+2023-04-23 16:00:10,776:INFO:             kaleido: 0.2.1
+2023-04-23 16:00:10,776:INFO:         statsmodels: 0.13.5
+2023-04-23 16:00:10,776:INFO:              sktime: 0.17.1
+2023-04-23 16:00:10,776:INFO:               tbats: 1.1.3
+2023-04-23 16:00:10,776:INFO:            pmdarima: 2.0.3
+2023-04-23 16:00:10,776:INFO:              psutil: 5.9.5
+2023-04-23 16:00:10,776:INFO:PyCaret optional dependencies:
+2023-04-23 16:00:10,812:INFO:                shap: 0.41.0
+2023-04-23 16:00:10,812:INFO:           interpret: Not installed
+2023-04-23 16:00:10,812:INFO:                umap: Not installed
+2023-04-23 16:00:10,813:INFO:    pandas_profiling: Not installed
+2023-04-23 16:00:10,813:INFO:  explainerdashboard: Not installed
+2023-04-23 16:00:10,813:INFO:             autoviz: Not installed
+2023-04-23 16:00:10,813:INFO:           fairlearn: Not installed
+2023-04-23 16:00:10,813:INFO:             xgboost: 1.7.5
+2023-04-23 16:00:10,813:INFO:            catboost: 1.1.1
+2023-04-23 16:00:10,813:INFO:              kmodes: Not installed
+2023-04-23 16:00:10,813:INFO:             mlxtend: Not installed
+2023-04-23 16:00:10,813:INFO:       statsforecast: Not installed
+2023-04-23 16:00:10,813:INFO:        tune_sklearn: Not installed
+2023-04-23 16:00:10,813:INFO:                 ray: Not installed
+2023-04-23 16:00:10,814:INFO:            hyperopt: Not installed
+2023-04-23 16:00:10,814:INFO:              optuna: 3.1.1
+2023-04-23 16:00:10,814:INFO:               skopt: Not installed
+2023-04-23 16:00:10,814:INFO:              mlflow: Not installed
+2023-04-23 16:00:10,814:INFO:              gradio: Not installed
+2023-04-23 16:00:10,814:INFO:             fastapi: Not installed
+2023-04-23 16:00:10,814:INFO:             uvicorn: Not installed
+2023-04-23 16:00:10,814:INFO:              m2cgen: Not installed
+2023-04-23 16:00:10,814:INFO:           evidently: Not installed
+2023-04-23 16:00:10,814:INFO:               fugue: Not installed
+2023-04-23 16:00:10,814:INFO:           streamlit: Not installed
+2023-04-23 16:00:10,814:INFO:             prophet: Not installed
+2023-04-23 16:00:10,815:INFO:None
+2023-04-23 16:00:10,815:INFO:Set up GPU usage.
+2023-04-23 16:00:10,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:00:10,815:WARNING:cuML is outdated or not found. Required version is >=22.10, got 3.0.0
+2023-04-23 16:00:10,815:INFO:Set up data.
+2023-04-23 16:00:52,317:INFO:Set up train/test split.
+2023-04-23 16:01:02,330:INFO:Set up index.
+2023-04-23 16:01:02,522:INFO:Set up folding strategy.
+2023-04-23 16:01:02,522:INFO:Assigning column types.
+2023-04-23 16:01:11,424:INFO:Engine successfully changes for model 'lr' to 'sklearn'.
+2023-04-23 16:01:11,429:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:11,430:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-04-23 16:01:11,431:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:11,438:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 16:01:11,438:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:11,444:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:11,444:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,574:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:16,574:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,630:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:16,630:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,632:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,637:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:16,694:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:16,699:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,699:INFO:Engine for model 'lasso' has not been set explicitly, hence returning None.
+2023-04-23 16:01:16,700:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,707:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 16:01:16,707:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:16,715:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:16,715:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,664:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:22,665:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,729:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:22,729:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,729:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,730:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:22,735:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:22,736:INFO:Engine successfully changes for model 'lasso' to 'sklearn'.
+2023-04-23 16:01:22,736:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,737:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,744:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 16:01:22,744:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:22,752:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:22,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,412:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:28,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,478:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:28,478:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,479:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,479:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:28,487:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:28,489:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,489:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,497:INFO:Engine for model 'ridge' has not been set explicitly, hence returning None.
+2023-04-23 16:01:28,497:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:28,508:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:28,508:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:34,979:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:34,981:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,033:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:35,033:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,033:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,034:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:35,040:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:35,041:INFO:Engine successfully changes for model 'ridge' to 'sklearn'.
+2023-04-23 16:01:35,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,041:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:35,057:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:35,058:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,142:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:41,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,195:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:41,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,196:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:41,202:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:41,204:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,205:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,211:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:41,219:INFO:Engine for model 'en' has not been set explicitly, hence returning None.
+2023-04-23 16:01:41,219:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,227:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:47,228:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,283:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:47,283:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,284:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,284:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:47,290:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:47,291:INFO:Engine successfully changes for model 'en' to 'sklearn'.
+2023-04-23 16:01:47,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,292:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,299:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:47,307:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,695:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:01:53,698:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,752:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:01:53,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,753:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:01:53,759:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:01:53,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,769:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:01:53,776:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,125:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:02:00,126:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,179:INFO:Engine for model 'knn' has not been set explicitly, hence returning None.
+2023-04-23 16:02:00,180:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,180:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,180:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:02:00,187:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:02:00,189:INFO:Engine successfully changes for model 'knn' to 'sklearn'.
+2023-04-23 16:02:00,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,189:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,197:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:00,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,754:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:02:05,755:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,806:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,806:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,807:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:02:05,819:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:02:05,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,821:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,828:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:05,836:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,078:INFO:Engine for model 'svm' has not been set explicitly, hence returning None.
+2023-04-23 16:02:12,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,138:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,157:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,158:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:02:12,174:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:02:12,179:INFO:Engine successfully changes for model 'svm' to 'sklearn'.
+2023-04-23 16:02:12,180:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,180:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,187:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:12,195:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,843:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,902:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,903:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:02:17,909:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:02:17,910:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,910:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,919:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:17,926:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:24,150:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:24,207:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:24,207:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:02:24,207:INFO:Soft dependency imported: xgboost: 1.7.5
+2023-04-23 16:02:24,213:INFO:Soft dependency imported: catboost: 1.1.1
+2023-04-23 16:02:24,222:INFO:Preparing preprocessing pipeline...
+2023-04-23 16:02:24,223:INFO:Set up simple imputation.
+2023-04-23 16:02:24,223:INFO:Set up polynomial features.
+2023-04-23 16:02:25,300:INFO:Set up column name cleaning.
+2023-04-23 16:19:14,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:19:14,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:19:14,680:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:19:14,681:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 16:19:15,922:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 16:19:19,672:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 16:19:26,610:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 16:19:28,528:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:29,492:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:31,463:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:32,008:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:32,403:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:33,252:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:47,309:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 16:19:48,505:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:49,442:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:51,107:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:51,694:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:52,097:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:19:52,988:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:20:40,238:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:20:40,770:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:20:41,981:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:20:42,204:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:23:49,352:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 16:23:51,417:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:23:52,379:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:23:54,058:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:23:54,621:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:23:55,026:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:23:55,904:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:11,813:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 16:24:12,970:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:13,953:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:15,729:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:16,290:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:16,682:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:17,536:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 16:24:55,865:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:24:56,275:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:24:57,488:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:24:57,779:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 16:29:25,409:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/1009628062.py:2: ExperimentalWarning: PatientPruner is experimental (supported from v2.8.0). The interface can change in the future.
+  pruner = PatientPruner(
+
+2023-04-23 16:29:27,606:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 16:29:27,608:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 16:29:27,609:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 16:29:27,613:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 16:29:27,613:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 16:29:27,613:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 16:29:27,614:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 16:29:27,614:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 17:06:42,705:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 17:06:42,717:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 17:06:42,718:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 17:06:42,718:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 17:06:42,719:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 17:06:42,719:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 17:06:42,719:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 17:06:42,720:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 18:11:20,113:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 18:11:20,136:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 18:11:20,137:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 18:11:20,140:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 18:11:20,141:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 18:11:20,141:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 18:11:20,141:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 18:11:20,142:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 19:01:55,889:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 19:01:55,915:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 19:01:55,917:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 19:01:55,919:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 19:01:55,920:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 19:01:55,920:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 19:01:55,921:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 19:01:55,921:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 19:28:09,666:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 19:28:09,672:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 19:28:09,672:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 19:28:09,673:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 19:28:09,674:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 19:28:09,674:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 19:28:09,674:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 19:28:09,675:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 19:33:14,704:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_36845/3929124951.py:4: FutureWarning:
+
+suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+
+
+2023-04-23 21:05:05,982:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 21:05:05,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 21:05:05,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 21:05:05,983:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 21:05:07,262:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 21:05:10,983:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 21:05:17,895:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 21:05:19,736:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:20,878:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:22,576:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:23,137:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:23,497:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:24,318:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:36,412:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+
+2023-04-23 21:05:37,576:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:38,726:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:40,363:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:40,908:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:41,292:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:05:42,190:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/dataprep/eda/distribution/render.py:274: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df = df.append(pd.DataFrame({col: [nrows - npresent]}, index=["Others"]))
+
+2023-04-23 21:06:19,751:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 21:06:20,324:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 21:06:21,806:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 21:06:22,066:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
+2023-04-23 21:06:23,401:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/1009628062.py:2: ExperimentalWarning: PatientPruner is experimental (supported from v2.8.0). The interface can change in the future.
+  pruner = PatientPruner(
+
+2023-04-23 21:06:23,425:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:6: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'learning_rate':     trial.suggest_loguniform("learning_rate", 0.1, 0.4),
+
+2023-04-23 21:06:23,425:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:8: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'min_child_weight':  trial.suggest_loguniform("min_child_weight", 0.001, 10),
+
+2023-04-23 21:06:23,426:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:9: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'subsample':         trial.suggest_discrete_uniform("subsample", 0.1, 1.0, 0.025),
+
+2023-04-23 21:06:23,426:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:10: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bytree':  trial.suggest_discrete_uniform("colsample_bytree",  0.1, 1.0, 0.025),
+
+2023-04-23 21:06:23,427:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:11: FutureWarning: suggest_discrete_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'colsample_bylevel': trial.suggest_discrete_uniform("colsample_bylevel",  0.1, 1.0, 0.025),
+
+2023-04-23 21:06:23,427:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:12: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'gamma':             trial.suggest_loguniform("gamma", 1e-10, 10),
+
+2023-04-23 21:06:23,427:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:13: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_lambda':        trial.suggest_loguniform("reg_lambda", 1e-10, 100),
+
+2023-04-23 21:06:23,427:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/3127005436.py:14: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'reg_alpha':         trial.suggest_loguniform("reg_alpha", 1e-10, 100),
+
+2023-04-23 21:28:01,628:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_44332/2040566844.py:4: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  "learning_rate":trial.suggest_loguniform("learning_rate", 0.05, 0.4),
+
+2023-04-23 23:24:58,212:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 23:24:58,213:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 23:24:58,213:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 23:24:58,213:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-23 23:24:59,532:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-04-23 23:25:02,973:WARNING:/Users/ram/.pyenv/versions/3.9.6/envs/myenv/lib/python3.9/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
+  warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
+
+2023-04-23 23:42:47,527:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_46957/3806993299.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 23:42:47,861:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_46957/3806993299.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(np.log(Y_train_0), kde=True, fit=sp.stats.norm)
+
+2023-04-23 23:42:53,568:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_46957/3711380074.py:4: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(Y_train_0, kde=True, fit=sp.stats.norm)
+
+2023-04-23 23:42:53,807:WARNING:/var/folders/5p/x_ln0xd912b29pyd6q752vp40000gn/T/ipykernel_46957/3711380074.py:10: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sb.distplot(y_trans, kde=True, fit=sp.stats.norm)
+
